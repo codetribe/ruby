@@ -1,0 +1,4 @@
+A hawker goes to the whole sale market, buys 200 mangoes for Rs 20/-
+a piece. He then comes to the city and sells it for Rs 55/- a piece.
+By the end of the day he had sold all his mangoes. Find profit made
+by him.
